@@ -1,0 +1,7 @@
+/media/gungui/HOC TAP/computer vision/dlib/examples/build/CMakeFiles/rebuild_cache.dir
+/media/gungui/HOC TAP/computer vision/dlib/examples/build/CMakeFiles/edit_cache.dir
+/media/gungui/HOC TAP/computer vision/dlib/examples/build/CMakeFiles/webcam_head_pose.dir
+/media/gungui/HOC TAP/computer vision/dlib/examples/build/CMakeFiles/assignment_learning_ex.dir
+/media/gungui/HOC TAP/computer vision/dlib/examples/build/dlib_build/CMakeFiles/edit_cache.dir
+/media/gungui/HOC TAP/computer vision/dlib/examples/build/dlib_build/CMakeFiles/rebuild_cache.dir
+/media/gungui/HOC TAP/computer vision/dlib/examples/build/dlib_build/CMakeFiles/dlib.dir
